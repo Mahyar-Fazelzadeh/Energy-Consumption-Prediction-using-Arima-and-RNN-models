@@ -67,4 +67,5 @@ There are variations in all metrics among different folds, But this level of var
 ## Comparing two models:
 At this level, Arima model performed better based on the rmse and mape metrics. But it does not mean that the RNN model has not the potensial to get a better result. Playing with Nueral network parameters to gain best result is time consuming process. It is recomended to test other parameters in RNN model to get a better result.
 
-
+## Deployment
+You can run [power.py](https://github.com/Mahyar-Fazelzadeh/Tetuan_City_power_consumption_analysis/blob/main/power.py) to visit the interface of future forecast of Tetaun city enrgy consumption.
