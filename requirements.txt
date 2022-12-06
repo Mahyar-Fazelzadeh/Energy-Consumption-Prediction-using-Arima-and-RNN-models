@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+statsmodels
+pmdarima
+seaborn
+datetime
+scikit-learn
+tensorflow
+joblib
