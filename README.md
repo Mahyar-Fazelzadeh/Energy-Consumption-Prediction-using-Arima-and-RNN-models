@@ -1,4 +1,4 @@
-# Power consumption of Tetouan city
+# Energy Consumption Prediction using Arima and RNN models
 ## Introduction
 
 We are all aware of dangerous of over consuming energy in future. Right now lots of countries are suffering to provide enough energy for their daily consumptions. Any tools to be able to predict the pattern of energy consuption will help countries to plan for their future.
